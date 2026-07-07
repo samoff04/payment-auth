@@ -1,6 +1,6 @@
 # payment-auth
 
-Payment authentication and processing module for a full stack project.
+Payment authentication and processing module for a Payment based interface.
 
 ## Stack
 - Node.js / Express
